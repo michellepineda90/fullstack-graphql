@@ -3,5 +3,60 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "type": "DOG",
+      "name": "Luka",
+      "createdAt": "06092022"
+    },
+    {
+      "id": "2",
+      "type": "CAT",
+      "name": "Lola",
+      "createdAt": "06092022"
+    },
+    {
+      "id": "6wE4NA2tqI62EPpae3SQ5",
+      "createdAt": 1654812416385,
+      "name": "Batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "pWMOAs-fv67Rxkabf5x7Z",
+      "createdAt": 1654814555426,
+      "name": "Gogi",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "J2EwnDb-h92y7UlY8HDwW",
+      "createdAt": 1654814601645,
+      "name": "Kali",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "nI9JKvPoB4Vn_MfH3NdXt",
+      "createdAt": 1654818808790,
+      "name": "Geordie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "cvZKd_G_To9JqalmqeX-T",
+      "createdAt": 1654819602168,
+      "name": "Lucy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "HUfjsT3-Y0H6mNd0wFXbX",
+      "createdAt": 1654887271191,
+      "name": "Bebe",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
